@@ -2,7 +2,7 @@
 
 Senior technology and information security leader focused on secure data platforms, AI governance and regulated systems.
 
-My background spans 12+ years across banking, consulting and engineering. I work where security, data and operations meet—designing systems with clear controls, traceable decisions and evidence that stands up to review.
+My background spans 15+ years across banking, consulting and engineering. I work where security, data and operations meet—designing systems with clear controls, traceable decisions and evidence that stands up to review.
 
 ## Selected work
 
