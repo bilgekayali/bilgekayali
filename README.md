@@ -2,9 +2,13 @@
 
 Senior technology and information security leader focused on secure data platforms, AI governance and regulated systems.
 
-My background spans 15+ years across banking, consulting and engineering. I work where security, data and operations meet—designing systems with clear controls, traceable decisions and evidence that stands up to review.
+My background spans 12+ years across banking, consulting and engineering. I work where security, data and operations meet—designing systems with clear controls, traceable decisions and evidence that stands up to review.
 
 ## Selected work
+
+### [StructuraX](https://github.com/bilgekayali/structurax)
+
+An open-source trust foundation for AI-assisted construction document workflows. It combines my civil-engineering background with deterministic controls for document consistency, payment-detail integrity, approval governance and embedded-instruction risk.
 
 ### [FinSec-LLM-Eval](https://github.com/bilgekayali/finsec-llm-eval)
 
