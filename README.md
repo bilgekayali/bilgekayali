@@ -24,7 +24,7 @@ A reference platform for auditable energy-flexibility coordination. It demonstra
 
 ## Background
 
-I trained as a civil engineer and later completed postgraduate studies in Information Technology and Internet Security, and Management Information Systems. That mix of engineering, security and management still shapes how I approach technology: understand the operating reality, define the controls, then build for reliability.
+I graduated as a civil engineer and later completed postgraduate studies in Information Technology and Internet Security, and Management Information Systems. That mix of engineering, security and management still shapes how I approach technology: understand the operating reality, define the controls, then build for reliability.
 
 ## Connect
 
