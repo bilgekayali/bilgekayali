@@ -18,9 +18,9 @@ A reference platform for auditable energy-flexibility coordination. It demonstra
 
 An open-source, governance-first control plane for authorised security assessments in regulated financial institutions. It combines explicit scope and approvals, deterministic policy enforcement, evidence minimisation, tamper-evident audit trails and source-linked regulatory reporting while keeping the built-in runner simulation-only.
 
-### [StructuraX](https://github.com/bilgekayali/structurax)
+### [ModelRiskOps](https://github.com/bilgekayali/ModelRiskOps)
 
-An open-source trust foundation for AI-assisted construction document workflows. It combines my civil-engineering background with deterministic controls for document consistency, payment-detail integrity, approval governance and embedded-instruction risk.
+An open-source reference architecture for governing analytical, statistical, machine-learning, AI and generative-AI systems through a controlled lifecycle: inventory, risk classification, independent validation, approval, monitoring, signed change/revalidation evidence, AI/GenAI overlays, portfolio/third-party risk, framework assurance mappings, tenant/cryptographic hardening and production-reference release evidence.
 
 ## Areas of focus
 
