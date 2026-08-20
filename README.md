@@ -6,6 +6,14 @@ My background spans 15+ years across banking, consulting and engineering. I work
 
 ## Selected work
 
+### [RegAgentOps](https://github.com/bilgekayali/RegAgentOps)
+
+Enterprise-grade agentic AI architecture for regulated workflows, designed around policy enforcement, human oversight, provenance, auditability and deterministic control boundaries.
+
+### [Energy Flex Trust Platform](https://github.com/bilgekayali/energy-flex-trust-platform)
+
+A reference platform for auditable energy-flexibility coordination. It demonstrates idempotent commands, separation of duties, hash-linked audit events and verifiable settlement evidence.
+
 ### [FinRedOps](https://github.com/bilgekayali/finredops)
 
 An open-source, governance-first control plane for authorised security assessments in regulated financial institutions. It combines explicit scope and approvals, deterministic policy enforcement, evidence minimisation, tamper-evident audit trails and source-linked regulatory reporting while keeping the built-in runner simulation-only.
@@ -13,14 +21,6 @@ An open-source, governance-first control plane for authorised security assessmen
 ### [StructuraX](https://github.com/bilgekayali/structurax)
 
 An open-source trust foundation for AI-assisted construction document workflows. It combines my civil-engineering background with deterministic controls for document consistency, payment-detail integrity, approval governance and embedded-instruction risk.
-
-### [FinSec-LLM-Eval](https://github.com/bilgekayali/finsec-llm-eval)
-
-An open-source evaluation project for testing how LLMs and AI agents behave under financial-services security and control scenarios. It covers prompt injection, sensitive-data leakage, unauthorised tool use, unreliable guidance, human escalation and evidence quality.
-
-### [Energy Flex Trust Platform](https://github.com/bilgekayali/energy-flex-trust-platform)
-
-A reference platform for auditable energy-flexibility coordination. It demonstrates idempotent commands, separation of duties, hash-linked audit events and verifiable settlement evidence.
 
 ## Areas of focus
 
