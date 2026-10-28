@@ -43,6 +43,6 @@ I currently work in information security leadership within a regulated banking e
 
 **Certifications:** CISM, ISO/IEC 27001 Lead Auditor, ISO/IEC 27701 Lead Auditor, SSCP.
 
-**Education:** Postgraduate studies in Management Information Systems and Information Technology & Internet Security; bachelor's degree in Civil Engineering.
+**Education:** Master's Degrees in Management Information Systems and Information Technology & Internet Security; bachelor's degree in civil engineering.
 
 [LinkedIn](https://www.linkedin.com/in/bilge-kayali-9a1232149/)
